@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Mi nombre es Mariana Villegas Hernández, soy Química Bióloga Parasitóloga egresada y actualmente estudio la maestría en ciencias biomédicas.
+Mi nombre es Mariana Villegas Hernández, soy Química Bióloga Parasitóloga y actualmente estudio la maestría en ciencias biomédicas.
 - 🔭 Mi tesis de maestría se centra en el análisis proteómico de vesiculas extracelulares derivadas de lesiones cervicales precursoras del cáncer cervicouterino (CaCU).
 - 🌱 Actualmente estoy aprendiendo sobre el uso de herramientas bioinformáticas para el análisis e interpretación de datos ómicos. 
 - 👯 Me interesa colaborar con hospitales de cancerología e instituciones que desarrollen investigación en CaCU. 
